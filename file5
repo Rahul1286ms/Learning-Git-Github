@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is file5
 created at master branch
+=======
+This is  file5
+created at new_feature branch
+>>>>>>> new_feature
